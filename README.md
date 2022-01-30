@@ -7,6 +7,7 @@ MSX game developed with default Basic in text mode, no machine code
 5th_sp is the version with speech synthesis, it requires ROM or CAS file or the binary file tavmsx.bin in disk A. TAVMSX beta 4, by Pastbytes, is for MSX1 but this version of the game requires at least MSX2.
 
 Play online: https://webmsx.org/?MACHINE=MSX2E&ROM=https://github.com/antor44/5th/raw/main/5th_sp.rom
+(Bad sound quality)
 
 Repository for downloads: https://github.com/antor44/5th
 

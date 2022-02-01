@@ -1,6 +1,6 @@
 # Close Encounters of the Fifth Kind
 
-MSX game developed with default Basic in text mode, no machine code
+MSX game developed with default Basic, no machine code
 
 5th is the version compatible with MSX1.
 
